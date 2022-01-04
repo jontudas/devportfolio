@@ -34,6 +34,9 @@ button {
 .dream_big {
     display: flex;
     padding-top: 88px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .dream_big img {
     width: 80%;
